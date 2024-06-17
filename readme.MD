@@ -2,7 +2,3 @@
 
 excited to explore more
 
-'''javascript
-console.log('hello world');
-
-'''
